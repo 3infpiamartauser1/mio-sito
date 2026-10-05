@@ -1,1 +1,4 @@
 # mio-sito
+- Oggi ho creato il mio sito personale in cui mi presento e racconto delle mie passioni principali. Per la parte testuale ho creato un file html, mentre per la parte grafica (colori e caratteri), ho creato un file css.
+- L'unica cosa che non funziona è che quando sono andato a modificare il file css direttamente dall'app di github, trasformando il lightblue in lightred, non è stato modificato il colore, poi ho riprovato usando il red, e mi ha modificato lo schermo in bianco.
+- Mi è piaciuto rivivere i momenti iniziali dell'anno scorso nella vecchia scuola, la parte grafica è quella che mi interessa di più perchè ha più varietà e riesco a modificare a mio piacimento.
